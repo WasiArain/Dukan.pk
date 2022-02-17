@@ -73,7 +73,7 @@ body {
     color: #FB8500;
     transition: all 0.3s ease;
     text-shadow: none;
-    animation: chngColor 10s ease infinite;
+    animation: chngColor 5s ease-in-out infinite;
 }
 
 @keyframes chngColor {
